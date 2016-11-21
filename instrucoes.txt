@@ -1,8 +1,8 @@
 
 Uso do git e github
 
-1. Criar uma conta no github
-2. Criar um repositorio no github
+1. Criar uma conta no github (github.com)
+2. Criar um repositorio no github (Já criado pelo professor, pode pular este passo)
 3. Clonar o projeto na sua maquina
    git clone <endereço do repositorio>
 4. Entrar na pasta clonada e criar seus arquivos
@@ -14,3 +14,5 @@ Uso do git e github
 7. Utilizar o comando para empurrar as mudanças para o repositório
    git push
    Obs: será solicitada seu usuario e senha do github
+
+
