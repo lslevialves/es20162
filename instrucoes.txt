@@ -6,3 +6,11 @@ Uso do git e github
 3. Clonar o projeto na sua maquina
    git clone <endereço do repositorio>
 4. Entrar na pasta clonada e criar seus arquivos
+5. Utilizar o comando git add para adicionar os arquivos criados
+   git add nome do arquivo
+6. Utilizar o comando git commit para marcar os arquivos para envio ao github
+   git commit -m "Comentário explicativo da mudança"
+   Obs: a primeira vez, vc deve utilizar o comando "git config" para definir seu e-mail e nome
+7. Utilizar o comando para empurrar as mudanças para o repositório
+   git push
+   Obs: será solicitada seu usuario e senha do github
