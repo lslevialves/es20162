@@ -1,0 +1,8 @@
+
+Uso do git e github
+
+1. Criar uma conta no github
+2. Criar um repositorio no github
+3. Clonar o projeto na sua maquina
+   git clone <endereço do repositorio>
+4. Entrar na pasta clonada e criar seus arquivos
